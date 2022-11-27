@@ -333,7 +333,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url("./images/Home-img.jpg") no-repeat;
+  background: url('../images/Home-img.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   margin-top: 10%;
@@ -451,7 +451,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url("./images/education-img.jpg") no-repeat;
+  background: url('../images/education-img.jpg') no-repeat;
   position: relative;
 }
 
