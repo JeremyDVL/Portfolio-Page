@@ -333,7 +333,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+  background: url("./images/home-img.jpg") no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   margin-top: 10%;
@@ -451,7 +451,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+  background: url("./images/education-img.jpg") no-repeat;
   position: relative;
 }
 
@@ -498,7 +498,7 @@ a:hover, a:active, a:focus {
 }
 
 #project {
-    background: url('../images/whitebrick-img.jpg') 50% 0 repeat-y fixed;
+    background: url("./images/whitebrick-img.jpg") 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
