@@ -453,6 +453,7 @@ a:hover, a:active, a:focus {
 #education .education-img {
   background: url('../images/education-img.jpg') no-repeat;
   position: relative;
+  max-height: 500px;	
 }
 
 #education .media-heading {
