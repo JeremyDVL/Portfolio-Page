@@ -498,7 +498,7 @@ a:hover, a:active, a:focus {
 }
 
 #project {
-    background: url("./images/whitebrick-img.jpg") 50% 0 repeat-y fixed;
+    background: url('../images/whitebrick-img.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
