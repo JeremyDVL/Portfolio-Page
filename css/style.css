@@ -484,6 +484,15 @@ a:hover, a:active, a:focus {
   grid: 150px / auto auto auto;
 }
 
+.projects-imgs {
+  padding-left: 5%;
+  padding-top: 5%;
+  padding-bottom:15%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
 .column {
   flex: 100%;
   padding-bottom: 400px;
